@@ -29,13 +29,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.xxx.xxx</string>
+				<string>io.dcloud.H58C219DF</string>
 				<key>bundle-version</key>
-				<string>1.0.0</string>
+				<string>2.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>client-mobile</string>
+				<string>九联智慧乡村</string>
 			</dict>
 		</dict>
 	</array>
