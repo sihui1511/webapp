@@ -33,9 +33,9 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>io.dcloud.H58C219DF</string>
+				<string>com.sc.scapp</string>
 				<key>bundle-version</key>
-				<string>2.0.4</string>
+				<string>2.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
